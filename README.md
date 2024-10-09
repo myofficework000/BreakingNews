@@ -5,17 +5,6 @@
 
 A powerful and efficient news search application that leverages the Paging Library to provide a smooth user experience. This app allows users to search for the latest news articles from various sources, presenting them in an easy-to-navigate interface.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [API Integration](#api-integration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - Search for news articles based on keywords.
@@ -33,10 +22,7 @@ A powerful and efficient news search application that leverages the Paging Libra
 - **Coroutines**: For asynchronous programming.
 - **Jetpack Compose**: Modern UI toolkit for building native Android UI.
 
-## Getting Started
-
 ### Prerequisites
-
 Before you begin, ensure you have met the following requirements:
 
 - Android Studio installed.
@@ -46,5 +32,5 @@ Before you begin, ensure you have met the following requirements:
 Contact
 For inquiries, please reach out to your.email@example.com.
 
-Read the full article on Medium []
-Connect with me on LinkedIn
+Read the full article on Medium [https://medium.com/@myofficework000/news-api-using-paging3-and-jetpack-compose-8533076b9687]
+Connect with me on LinkedIn [https://www.linkedin.com/in/myofficework/]
