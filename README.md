@@ -1,4 +1,4 @@
-# News Search App
+# News Search App with Pagination
 
 ![News Search App](https://github.com/user-attachments/assets/3549be20-ca92-41ee-87df-019db4153151)
 
