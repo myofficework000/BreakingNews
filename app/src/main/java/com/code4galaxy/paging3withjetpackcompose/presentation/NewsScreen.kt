@@ -41,6 +41,10 @@ import com.code4galaxy.paging3withjetpackcompose.R
 import com.squareup.picasso.Picasso
 import java.util.Locale
 
+/**
+ * Composable function to display the News Screen with search functionality,
+ * sorting options, and paginated article results using Jetpack Compose and Paging 3.
+ */
 @Composable
 fun NewsScreen() {
     val viewModel: NewsViewModel = hiltViewModel()
